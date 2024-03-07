@@ -58,7 +58,7 @@ The project utilizes npm scripts to streamline various tasks:
 
 ## Screenshot
 
-![newsApp Screenshot](src\assets\Screenshot-newsAp.png)
+![newsApp Screenshot](src/assets/Screenshot-newsAp.png)
 
 ## License
 
