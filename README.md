@@ -56,7 +56,7 @@ The project utilizes npm scripts to streamline various tasks:
 - **Headline Display:** View the latest news headlines with accompanying images.
 - **Article Details:** Read more about each news article by clicking on the "Read More" button.
 
-## Screenshots
+## Screenshot
 
 ![newsApp Screenshot](src\assets\Screenshot-newsAp.png)
 
