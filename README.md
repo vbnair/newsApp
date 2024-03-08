@@ -2,8 +2,10 @@
 
 A simple React app that fetches and displays the latest news headlines using the News API. This React application allows users to explore the latest news headlines from various categories such as General, Business, Technology, and Sports. The news data is sourced from the News API.
 
-
+- **Bootstrap version:**
 ![newsApp Screenshot](src/assets/Screenshot-newsAp.png)
+
+- **Inline CSS version::**
 ![newsApp Screenshot](src/assets/Screenshot-inlinecss-version.png)
 
 
