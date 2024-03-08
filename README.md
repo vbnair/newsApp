@@ -4,6 +4,7 @@ A simple React app that fetches and displays the latest news headlines using the
 
 
 ![newsApp Screenshot](src/assets/Screenshot-newsAp.png)
+![newsApp Screenshot](src/assets/Screenshot-inlinecss-version.png)
 
 
 # How It's Built
