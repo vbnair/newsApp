@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useEffect, useState } from "react"
 import NewsItem from "./NewsItem"
+// import New from './New'
 const apiKey = import.meta.env.VITE_API_KEY
 
 const NewsBoard = ({category}) => {
@@ -22,6 +23,7 @@ fetch(url)
       <h2 className="text-center">Latest <span className="badge text-bg-warning">News</span></h2>
 {articles.map((news, index) => {
   return  <NewsItem key={index} title={news.title} description ={news.description} src={news.urlToImage} url={news.url}/>
+  // return  <New key={index} title={news.title} description ={news.description} src={news.urlToImage} url={news.url}/>
   })}
     </div>
   )
