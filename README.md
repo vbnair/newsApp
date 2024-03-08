@@ -8,7 +8,7 @@ A simple React app that fetches and displays the latest news headlines using the
 
 
 
-- **Inline CSS version::**
+- **Inline CSS version:**
  
 ![newsApp Screenshot](src/assets/Screenshot-inlinecss-version.png)
 
